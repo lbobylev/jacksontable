@@ -10,7 +10,7 @@
     "url": "https://github.com/rathbone-labs/jacksontable/issues"
   },
   "author": "Matthew Rathbone <matthew@rathbonelabs.com>",
-  "version": "6.2.2",
+  "version": "6.2.3",
   "browser": "dist/handsontable.js",
   "main": "commonjs/index.js",
   "module": "es/index.js",
@@ -59,7 +59,7 @@
     "data-spreadsheet"
   ],
   "dependencies": {
-    "moment": "2.20.1",
+    "moment": "2.29.4",
     "numbro": "^2.0.6",
     "pikaday": "1.5.1"
   },
