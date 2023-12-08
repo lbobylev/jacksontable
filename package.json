@@ -1,13 +1,13 @@
 {
-  "name": "jacksontable",
+  "name": "@lbobylev/jacksontable",
   "description": "Handsontable is a JavaScript Spreadsheet Component available for React, Angular and Vue.",
-  "homepage": "https://github.com/rathbone-labs/jacksontable",
+  "homepage": "https://github.com/lbobylev/jacksontable",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rathbone-labs/jacksontable.git"
+    "url": "https://github.com/lbobylev/jacksontable.git"
   },
   "bugs": {
-    "url": "https://github.com/rathbone-labs/jacksontable/issues"
+    "url": "https://github.com/lbobylev/jacksontable/issues"
   },
   "author": "Matthew Rathbone <matthew@rathbonelabs.com>",
   "version": "6.2.3",
